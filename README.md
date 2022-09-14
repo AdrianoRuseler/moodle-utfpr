@@ -10,4 +10,5 @@ commit a866652ea4bad0af94b6367edfd1cf7413d2489a
 
 
 # Sites
+* https://moodle.org/
 * https://moodledev.io/
