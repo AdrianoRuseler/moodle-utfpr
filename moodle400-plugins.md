@@ -1,4 +1,4 @@
-## Plugins List
+## Lista de plugins adicionais
 
 - https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
