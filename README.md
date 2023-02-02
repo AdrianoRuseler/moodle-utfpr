@@ -3,8 +3,8 @@
 
 # Moodle teste
 * https://moodleteste.utfpr.edu.br
-* https://mdl40.adrianoruseler.com
-* https://integration.adrianoruseler.com
+* https://mdl41.adrianoruseler.com
+
 
 # Versão do código
 * https://github.com/AdrianoRuseler/moodle400-plugins
